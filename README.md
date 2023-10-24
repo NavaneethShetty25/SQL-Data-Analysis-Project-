@@ -4,7 +4,6 @@ Data Analysis on Music Store data
 Objective:
 To examine the dataset with SQL and help the store understand its business growth by answering simple questions
 
-All the questions are answered and with the help of this answer business can be developed.
 
 Project Highlights:
 
