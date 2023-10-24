@@ -6,17 +6,16 @@ To examine the dataset with SQL and help the store understand its business growt
 
 
 Project Highlights:
-
 Extracted relevant data from the Music Store database using SQL queries.
 Analyzed sales patterns, customer behavior, and inventory turnover.
 Provided clear answers to critical business questions, facilitating informed decision-making.
-Outcomes:
 
+Outcomes:
 Identified trends and opportunities, enabling strategic planning.
 Enhanced understanding of customer preferences, aiding targeted marketing efforts.
 Contributed to business development by delivering actionable insights.
-Key Skills:
 
+Key Skills:
 SQL Querying
 Data Extraction & Transformation
 Business Insights & Analysis
